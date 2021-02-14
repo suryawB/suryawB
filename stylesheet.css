@@ -46,7 +46,7 @@ li {
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
-  font-size: 38px;
+  font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
 }
@@ -67,7 +67,7 @@ li {
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
-  width:100%;
+  width:400px;
   margin-top:10px;
   margin-bottom:30px;
   padding:20px;
